@@ -1,0 +1,15 @@
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\bin\Debug\net8.0-windows\Chat-App-Project.exe
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\bin\Debug\net8.0-windows\Chat-App-Project.deps.json
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\bin\Debug\net8.0-windows\Chat-App-Project.runtimeconfig.json
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\bin\Debug\net8.0-windows\Chat-App-Project.dll
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\bin\Debug\net8.0-windows\Chat-App-Project.pdb
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\obj\Debug\net8.0-windows\Chat-App-Project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\obj\Debug\net8.0-windows\Chat-App-Project.AssemblyInfoInputs.cache
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\obj\Debug\net8.0-windows\Chat-App-Project.AssemblyInfo.cs
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\obj\Debug\net8.0-windows\Chat-App-Project.csproj.CoreCompileInputs.cache
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\obj\Debug\net8.0-windows\Chat-App-Project.sourcelink.json
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\obj\Debug\net8.0-windows\Chat-App-Project.dll
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\obj\Debug\net8.0-windows\refint\Chat-App-Project.dll
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\obj\Debug\net8.0-windows\Chat-App-Project.pdb
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\obj\Debug\net8.0-windows\Chat-App-Project.genruntimeconfig.cache
+c:\Users\mega1\OneDrive\Documentos\GitHub\Chat-App-Project\obj\Debug\net8.0-windows\ref\Chat-App-Project.dll
